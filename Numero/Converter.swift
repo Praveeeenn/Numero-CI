@@ -33,7 +33,7 @@ class Converter {
     var result = ""
 
     let numberSymbols: [(number: Int, symbol: String)] =
-      [(1000, "A"),
+      [(1000, "Z"),
        (900, "CM"),
        (500, "D"),
        (400, "CD"),
