@@ -1,4 +1,4 @@
 buttons:
-  - title: Run tests
-    action: "run_tests"
-    description: Run your tests
+  - title: Build App
+    action: "build_app"
+    description: Xcode builder will execute
