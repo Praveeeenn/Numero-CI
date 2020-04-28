@@ -1,5 +1,5 @@
-- name: Slash Command Dispatch
-  uses: peter-evans/slash-command-dispatch@v1.1.2
+name: Slash Command Dispatch
+uses: peter-evans/slash-command-dispatch@v1.1.2
 
 name: CI
 
